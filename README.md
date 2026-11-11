@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hello, I am an independent humanitarian organizer. 👋
 
-<!--
-**alirezaameri66-charity/alirezaameri66-charity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am running a grassroots campaign to provide essential food, medical supplies, and shelter to **war-affected children in southern Iran**. 
 
-Here are some ideas to get you started:
+We believe in transparency, decentralization, and direct action. To ensure your donations reach the children safely and without bureaucratic delays, we accept cryptocurrency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤝 How to Support the Children
+
+You can make a donation using any cryptocurrency. All funds are converted to Monero (XMR) to ensure privacy and security, and are directly used for humanitarian aid.
+
+👇 Click the button below to donate directly:
+
+[![Donate with any coin](https://hiddenswap.com/pay/XAocxgGP/badge.svg)](https://hiddenswap.com/pay/XAocxgGP)
+
+*Note: I am an independent organizer, not a registered NGO. However, I document every step of the process with receipts and photos (blurring identities) to ensure complete transparency.*
+
+#HumanitarianAid #Iran #CryptoCharity #SupportChildren
